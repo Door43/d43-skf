@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[skf:home|Door43 (skf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-skf|d43-skf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-skf/archive/master.zip|d43-skf.zip]]
+
+**Recent Changes**
+{{changes>ns = skf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/skf|Ethnologue data]]
+
